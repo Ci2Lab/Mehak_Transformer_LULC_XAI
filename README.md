@@ -1,4 +1,4 @@
-## The work is in progress
+**The work is in progress**
 
 ## Transformer-based Land Use and Land Cover Classification with Explainability using Satellite Imagery
 

@@ -10,7 +10,10 @@ In this repository, we make the code built for our paper in which we introduce a
 The datasets used in this work are publicly available:
 * [EuroSAT-RGB](https://github.com/phelber/EuroSAT)
 
-![Alt Text](images/Eurosat.png)
+<p float="left">
+<img src="images/readme/tree_top.jpg" width="200"/>
+<img src="images/readme/Eurosat" width="200"/>
+</p>
 
 ## Models
 * Vision Transformer

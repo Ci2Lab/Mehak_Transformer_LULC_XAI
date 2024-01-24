@@ -16,9 +16,11 @@ The datasets used in this work are publicly available:
 
 ## Models
 * Vision Transformer
-![Alt Text](images/ViT.png)
-* Swin  Transformer
-![Alt Text](images/SwinT.png)
+<p float="left">
+<img src="images/ViT.png" width="400"/>
+<img src="images/SwinT.png" width="400"/>
+</p>
+
 
 ## Explainability 
 

@@ -11,7 +11,7 @@ The datasets used in this work are publicly available:
 * [EuroSAT-RGB](https://github.com/phelber/EuroSAT)
 
 <p float="left">
-<img src="images/Eurosat.png" width="500"/>
+<img src="images/Eurosat.png" width="550"/>
 </p>
 
 ## Models

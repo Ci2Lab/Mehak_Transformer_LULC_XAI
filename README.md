@@ -17,8 +17,8 @@ The datasets used in this work are publicly available:
 ## Models
 * Vision Transformer
 <p float="left">
-<img src="images/ViT.png" width="400"/>
-<img src="images/SwinT.png" width="400"/>
+<img src="images/ViT.png" width="600"/>
+<img src="images/SwinT.png" width="600"/>
 </p>
 
 

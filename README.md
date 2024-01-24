@@ -23,9 +23,7 @@ The datasets used in this work are publicly available:
 
 
 ## Explainability 
-
-
-
+We utilized Integrated Gradients from [Captum Library](https://captum.ai/) to integrate Explainability in our proposed framework.
 
 
 

@@ -9,12 +9,13 @@ In this repository, we make the code built for our paper in which we introduce a
 ## Data
 The datasets used in this work are publicly available:
 * [EuroSAT-RGB](https://github.com/phelber/EuroSAT)
-
+* 
+<p float="left">
+<img src="images/Eurosat_table.png" width="600"/>
+  
 <p float="left">
 <img src="images/Eurosat.png" width="550"/>
-</p>
-<p float="left">
-<img src="images/Eurosat_table.png" width="500"/>
+
 </p>
 
 

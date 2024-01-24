@@ -13,6 +13,10 @@ The datasets used in this work are publicly available:
 <p float="left">
 <img src="images/Eurosat.png" width="550"/>
 </p>
+<p float="left">
+<img src="images/Eurosat_table.png" width="500"/>
+</p>
+
 
 ## Models
 * Vision Transformer

@@ -9,7 +9,8 @@ In this repository, we make the code built for our paper in which we introduce a
 ## Data
 The datasets used in this work are publicly available:
 * [EuroSAT-RGB](https://github.com/phelber/EuroSAT)
-  
+
+![Alt Text](images/Eurosat.png)
 
 
 

@@ -32,7 +32,7 @@ We utilized Integrated Gradients from [Captum Library](https://captum.ai/) to in
 
 
 ## Training 
-
+In order to run our framework, use this demo file: 
 
 
 

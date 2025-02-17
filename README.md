@@ -1,38 +1,85 @@
-**The work is in progress**
+# **Transformer-based Land Use and Land Cover Classification with Explainability using Satellite Imagery**
 
-## Transformer-based Land Use and Land Cover Classification with Explainability using Satellite Imagery
+This repository contains the code for our paper:  
+📄 **[Transformer-based Land Use and Land Cover Classification with Explainability using Satellite Imagery](https://www.nature.com/articles/s41598-024-67186-4)**  
 
-In this repository, we make the code built for our paper in which we introduce a framework designed to enhance the efficiency of Vision and Swin Transformer models by employing transfer learning and fine-tuning strategies. It also examines the significance of interpretability in these models, with a particular emphasis on Land Use and Land Cover (LULC) analysis using satellite imagery. The goal is to improve the performance of these advanced deep-learning models and ensure that their decision-making processes are transparent and understandable. This is a critical consideration for practical applications in LULC classification for areas such as forestry and various agricultural classifications.
+In this work, we introduce a **framework** that enhances the efficiency of **Vision Transformer (ViT) and Swin Transformer** models through **transfer learning** and **fine-tuning** techniques.  
 
-![Alt Text](images/FramLULC.png)
+Our approach also emphasizes **model interpretability**, ensuring that deep learning decisions in **Land Use and Land Cover (LULC) classification** are both **transparent and understandable**. This is particularly crucial for **forestry, agriculture, and environmental monitoring applications** using satellite imagery.
 
-## Data
-The datasets used in this work are publicly available:
-* [EuroSAT-RGB](https://github.com/phelber/EuroSAT)
-  
-<p float="left">
-<img src="images/Eurosat_table.png" width="600"/>
-  
-<p float="left">
-<img src="images/Eurosat.png" width="550"/>
-
+<p align="center">
+  <img src="images/FramLULC.png" width="700"/>
 </p>
 
+---
 
-## Models
-* Vision Transformer and Swin Transformer
-<p float="left">
-<img src="images/ViT.png" width="600"/>
-<img src="images/SwinT.png" width="600"/>
+## **📌 Key Features**
+✔ **Transformer-based Deep Learning:** Fine-tuned **Vision Transformer (ViT)** and **Swin Transformer** models for satellite image classification.  
+✔ **Explainability with Integrated Gradients:** We leverage **Captum’s Integrated Gradients** to provide interpretability in LULC classification.  
+✔ **Efficient Training Pipeline:** Utilizes **transfer learning** and **fine-tuning** for improved performance.  
+✔ **Application Areas:** Forestry, agricultural monitoring, environmental analysis, and urban planning.  
+
+---
+
+## **📂 Dataset**
+We use the **[EuroSAT-RGB](https://github.com/phelber/EuroSAT)** dataset, which contains **RGB satellite images** across **ten different land use classes**.
+
+<p align="center">
+  <img src="images/Eurosat_table.png" width="600"/>
 </p>
 
+Example images from EuroSAT:
+<p align="center">
+  <img src="images/Eurosat.png" width="550"/>
+</p>
 
-## Explainability 
-We utilized Integrated Gradients from [Captum Library](https://captum.ai/) to integrate Explainability in our proposed framework.
+---
+
+## **🧠 Models**
+Our framework leverages two transformer-based models:
+
+- **Vision Transformer (ViT)**
+- **Swin Transformer**
+
+<p align="center">
+  <img src="images/ViT.png" width="600"/>
+  <img src="images/SwinT.png" width="600"/>
+</p>
+
+Both models are fine-tuned for satellite image classification using **transfer learning** techniques.
+
+---
+
+## **🔍 Explainability**
+To ensure **model interpretability**, we integrate **Integrated Gradients** from the [Captum Library](https://captum.ai/). This allows us to **visualize feature importance** in the classification process.
+
+---
+
+## **📌 Acknowledgements**
+- The **[EuroSAT dataset](https://github.com/phelber/EuroSAT)** is publicly available.
+- We use **Vision Transformers (ViT)** and **Swin Transformers**, based on the [Hugging Face Transformers](https://huggingface.co/docs/transformers/index) library.
+- Explainability is powered by the **[Captum Library](https://captum.ai/)**.
+
+---
+
+## **📬 Contact**
+For questions or collaborations, feel free to open an issue or reach out!  
+
+📧 Email: [mehakkhan3@hotmail.com](mailto:mehakkhan3@hotmail.com)  
+🔗 LinkedIn: [Your LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mehakkhan7/))  
 
 
-## Training 
-In order to run our framework, use this demo file: 
+### **📝 Citation**
+If you find this work useful, please cite our paper:
 
-
+@article{khan2024transformer,
+  title={Transformer-based land use and land cover classification with explainability using satellite imagery},
+  author={Khan, Mehak and Hanan, Abdul and Kenzhebay, Meruyert and Gazzea, Michele and Arghandeh, Reza},
+  journal={Scientific Reports},
+  volume={14},
+  number={1},
+  pages={16744},
+  year={2024},
+  publisher={Nature Publishing Group UK London}
+}
 

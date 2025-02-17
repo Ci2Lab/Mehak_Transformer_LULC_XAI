@@ -46,7 +46,6 @@ Our framework leverages two transformer-based models:
   <img src="images/SwinT.png" width="600"/>
 </p>
 
-Both models are fine-tuned for satellite image classification using **transfer learning** techniques.
 
 ---
 

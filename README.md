@@ -8,7 +8,7 @@ In this work, we introduce a **framework** that enhances the efficiency of **Vis
 Our approach also emphasizes **model interpretability**, ensuring that deep learning decisions in **Land Use and Land Cover (LULC) classification** are both **transparent and understandable**. This is particularly crucial for **forestry, agriculture, and environmental monitoring applications** using satellite imagery.
 
 <p align="center">
-  <img src="images/FramLULC.png" width="700"/>
+  <img src="images/framework_new.png" width="700"/>
 </p>
 
 ---

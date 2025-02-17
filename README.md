@@ -58,7 +58,7 @@ To ensure **model interpretability**, we integrate **Integrated Gradients** from
 
 ## **📌 Acknowledgements**
 - The **[EuroSAT dataset](https://github.com/phelber/EuroSAT)** is publicly available.
-- We use **Vision Transformers (ViT)** and **Swin Transformers**, based on the [Timm library](https://huggingface.co/timm) library.
+- We use **Vision Transformers (ViT)** and **Swin Transformers**, based on the **[Timm library](https://huggingface.co/timm)** library.
 - Explainability is powered by the **[Captum Library](https://captum.ai/)**.
 
 ---

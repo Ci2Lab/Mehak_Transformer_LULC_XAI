@@ -67,9 +67,12 @@ For questions or collaborations, feel free to open an issue or reach out!
 📧 Email: [mehakkhan3@hotmail.com](mailto:mehakkhan3@hotmail.com)  
 
 
-### **📝 Citation**
+---
+
+## **📝 Citation**
 If you find this work useful, please cite our paper:
 
+```bibtex
 @article{khan2024transformer,
   title={Transformer-based land use and land cover classification with explainability using satellite imagery},
   author={Khan, Mehak and Hanan, Abdul and Kenzhebay, Meruyert and Gazzea, Michele and Arghandeh, Reza},
@@ -80,4 +83,5 @@ If you find this work useful, please cite our paper:
   year={2024},
   publisher={Nature Publishing Group UK London}
 }
+
 

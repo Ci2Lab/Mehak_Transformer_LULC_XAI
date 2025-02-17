@@ -2,6 +2,8 @@
 
 This repository contains the code for our paper:  
 📄 **[Transformer-based Land Use and Land Cover Classification with Explainability using Satellite Imagery](https://www.nature.com/articles/s41598-024-67186-4)**  
+✍ **Authors:** Mehak Khan, Abdul Hanan, Meruyert Kenzhebay, Michele Gazzea & Reza Arghandeh  
+📚 **Journal:** *Scientific Reports (Nature)*  
 
 In this work, we introduce a **framework** that enhances the efficiency of **Vision Transformer (ViT) and Swin Transformer** models through **transfer learning** and **fine-tuning** techniques.  
 

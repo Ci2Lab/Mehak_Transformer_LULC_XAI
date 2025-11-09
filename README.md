@@ -65,7 +65,7 @@ To ensure **model interpretability**, we integrate **Integrated Gradients** from
 
 ## 🚀 Repository Structure
 
-```bash
+
 
 ├── src/                  # Source modules (dataset, model, training, XAI, etc.)
 │   ├── eurosat_dataset.py

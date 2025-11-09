@@ -1,0 +1,12 @@
+[project]
+name = "eurosat-vit-xai"
+version = "0.1.0"
+description = "EuroSAT classification with ViT and XAI (IG)"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {file = "LICENSE"}
+authors = [{name = "MK"}]
+dependencies = []  # use requirements.txt for pinned runtime deps
+
+[tool.pytest.ini_options]
+pythonpath = ["."]

@@ -63,28 +63,6 @@ To ensure **model interpretability**, we integrate **Integrated Gradients** from
 
 ---
 
-## 🚀 Repository Structure
-
-```text
-
-├── src/                  # Source modules (dataset, model, training, XAI, etc.)
-│   ├── eurosat_dataset.py
-│   ├── preprocess.py
-│   ├── model_loader.py
-│   ├── model_utils.py
-│   ├── training.py
-│   ├── XAI.py
-│   ├── reproducibility.py
-│   ├── plot_helpers.py
-│   └── aggregate.py
-│
-├── main.py               # One-command training/evaluation entry point
-├── ViT_EuroSAT_XAI.ipynb # Step-by-step notebook version
-├── requirements.txt      # Core dependencies
-└── README.md             # Project documentation (this file)
-
----
-
 ## **📬 Contact**
 For questions or collaborations, feel free to open an issue or reach out!  
 

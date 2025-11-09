@@ -1,7 +1,7 @@
 [project]
-name = "eurosat-vit-xai"
+name = "Mehak_Transformer_LULC_XAI"
 version = "0.1.0"
-description = "EuroSAT classification with ViT and XAI (IG)"
+description = "Transformer-based land use and land cover classification with explainability using satellite imagery"
 readme = "README.md"
 requires-python = ">=3.10"
 license = {file = "LICENSE"}

@@ -1,5 +1,5 @@
 # **Transformer-based Land Use and Land Cover Classification with Explainability using Satellite Imagery**
-```bash
+
 This repository contains the code for our paper:  
 📄 **[Transformer-based Land Use and Land Cover Classification with Explainability using Satellite Imagery](https://www.nature.com/articles/s41598-024-67186-4)**  
 ✍ **Authors:** Mehak Khan, Abdul Hanan, Meruyert Kenzhebay, Michele Gazzea & Reza Arghandeh  
@@ -65,7 +65,7 @@ To ensure **model interpretability**, we integrate **Integrated Gradients** from
 
 ## 🚀 Repository Structure
 
-```bash
+```text
 
 ├── src/                  # Source modules (dataset, model, training, XAI, etc.)
 │   ├── eurosat_dataset.py

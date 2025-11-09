@@ -24,7 +24,7 @@ Our approach also emphasizes **model interpretability**, ensuring that deep lear
 ---
 
 ## **📂 Dataset**
-We use the **[EuroSAT-RGB](https://github.com/phelber/EuroSAT)** and **[PatternNet]([https://github.com/phelber/EuroSAT](https://www-sciencedirect-com.galanga.hvl.no/science/article/pii/S0924271618300042))** dataset, which contains **RGB satellite images** across **ten different land use classes**.
+We use the **[EuroSAT-RGB](https://github.com/phelber/EuroSAT)** dataset, which contains **RGB satellite images** across **ten different land use classes**. For further validation of our framework’s generalization and scalability, we conducted additional experiments using **[PatternNet](https://www-sciencedirect-com.galanga.hvl.no/science/article/pii/S0924271618300042)** dataset.
 
 <p align="center">
   <img src="images/Eurosat_table.png" width="600"/>
@@ -57,7 +57,7 @@ To ensure **model interpretability**, we integrate **Integrated Gradients** from
 ---
 
 ## **📌 Acknowledgements**
-- The **[EuroSAT dataset](https://github.com/phelber/EuroSAT)** and **[PatternNet]([https://github.com/phelber/EuroSAT](https://www-sciencedirect-com.galanga.hvl.no/science/article/pii/S0924271618300042))** are publicly available.
+- The **[EuroSAT dataset](https://github.com/phelber/EuroSAT)** and **[PatternNet](https://www-sciencedirect-com.galanga.hvl.no/science/article/pii/S0924271618300042)** are publicly available.
 - We use **Vision Transformers (ViT)** and **Swin Transformers**, based on the **[Timm library](https://huggingface.co/timm)** library.
 - Explainability is powered by the **[Captum Library](https://captum.ai/)**.
 
